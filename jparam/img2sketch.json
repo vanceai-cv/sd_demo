@@ -1,0 +1,7 @@
+﻿{
+	"src_path":"image/test.jpg",
+	"dst_path":"output",
+	"dst_name":"img2sketch.jpg",
+	"description": "A beautiful beauty with long hair",
+	"model_name": "realisticVisionV20_v20.safetensors"
+}

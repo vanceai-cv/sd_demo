@@ -1,0 +1,7 @@
+﻿{
+	"src_path":"image/test.jpg",
+	"dst_path":"output",
+	"dst_name":"img2sr.jpg",
+	"sr_model": "stablesr_webui_sd-v2-1-512-ema-000117.ckpt",
+	"model_name": "v2-1_512-ema-pruned.ckpt"
+}

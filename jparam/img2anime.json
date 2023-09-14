@@ -1,0 +1,8 @@
+﻿{
+	"src_path":"image/test.jpg",
+	"dst_path":"output",
+	"dst_name":"img2anime.jpg",
+	"style_strength": 3,
+	"description": "A beautiful beauty with long hair",
+	"model_name": "meinamix_meinaV9.safetensors"
+}
